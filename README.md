@@ -10,10 +10,7 @@ I really like mobile app development. I started by learning how to build an Andr
   - Email : lutluthfiansyah@gmail.com
   - Linkedin : [https://www.linkedin.com/in/arif-luthfiansyah/](https://www.linkedin.com/in/arif-luthfiansyah-3b4311139/)
   - Medium : [https://medium.com/@lutluthfi](https://medium.com/@lutluthfi)
-- 🔥 Motivation:
-  - Thanos said "reality is often disappointing", but it makes your detiny fulfilled
-  - In learning phase, you may use Dr. Strange words "I tell you what happened, it won't happen"
-  - "Challenges is not challenges if you are not afraid" - [Nadiem Marakiem](https://en.wikipedia.org/wiki/Nadiem_Makarim)
+- 🔥 Motivation : "Challenges is not challenges if you are not afraid" - [Nadiem Marakiem](https://en.wikipedia.org/wiki/Nadiem_Makarim)
 
 [![Arif's github stats](https://github-readme-stats.vercel.app/api?username=lutluthfi&theme=tokyonight)](https://github.com/lutluthfi)
 
