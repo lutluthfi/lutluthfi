@@ -2,9 +2,6 @@
 
 I really like mobile app development. I started by learning how to build an Android app in 2016. Until in 2019, I decided to change my course from Android to iOS. Starting a new challenge. This is my background as an iOS app developer.
 
-- 🔭 I’m currently working on [Cartula Health](https://apps.apple.com/au/app/cartula-health/id1535421104?fbclid=IwAR0FnmQTTUGn94EPAMbA0vU3CdO8krTT7DfCWm9wfYDxhvvZpwEwgZqBGtQ) which is an e-health app as iOS developer
-- 🌱 I’m currently learning skill that needed to become lead iOS developer
-- 👯 I’m looking to collaborate on any interesting project that related to iOS app
 - 💬 Ask me about anything that related to mobile app development or clean architecture
 - 📫 How to reach me : 
   - Email : lutluthfiansyah@gmail.com
